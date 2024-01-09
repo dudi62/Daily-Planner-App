@@ -12,12 +12,12 @@ This project is a simple day planner application built with jQuery, Day.js, and 
 
 ## Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/dudi62
+1. Clone the repository to your local machine using `git clone [https://dudi62.github.io/Daily-Planner-App](https://dudi62.github.io/Daily-Planner-App/)
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
 ## Screenshots
-
+![2024-01-09](https://github.com/dudi62/Daily-Planner-App/assets/63518444/79c1079c-203b-4db9-a6d5-9a80a458c2e2)
 
 ## How It Works
 
